@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 ¡Hola! Soy Desarrollador Web</h1>
+<h1 align="center">👨‍💻 ¡Hola! Soy Fineas</h1>
 
 <p align="center">
 Apasionado por construir aplicaciones web funcionales, escalables y bien estructuradas.
